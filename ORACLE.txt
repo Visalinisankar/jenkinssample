@@ -1,0 +1,21 @@
+ORACLE
+
+DBMS
+three elements
+
+kernel code
+repository of metadata
+Query language
+
+Relational model
+Structures
+Operations
+Integrity rules
+
+Schema object types
+Indexes
+Partitions
+Views
+Sequences
+Synonyms
+PL/SQL Subprograms and packages
